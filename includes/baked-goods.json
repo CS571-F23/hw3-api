@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Bagel",
+        "description": "A chewy, handcrafted delight with a golden crust - the perfect canvas for your favorite spreads.",
+        "price": 2.49
+    },
+    {
+        "name": "Donut",
+        "description": "Irresistibly glazed and sprinkled circles of happiness that melt in your mouth with every bite.",
+        "price": 1.49
+    },
+    {
+        "name": "Muffin",
+        "description": "Wholesome and moist, our muffins are baked to perfection, bursting with flavor in every crumb.",
+        "price": 1.99
+    },
+    {
+        "name": "Pie",
+        "description": "Dive into a slice of homemade comfort, where flaky crust meets luscious, fruity fillings in a symphony of taste.",
+        "price": 5.49
+    },
+    {
+        "name": "Cake",
+        "description": "Elevate any celebration with our decadent cakes, a sweet masterpiece of elegance and indulgence.",
+        "price": 6.49
+    }
+]

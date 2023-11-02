@@ -1,0 +1,37 @@
+{
+    "Sunday": {
+        "name": "Karpatka",
+        "description": "Experience the taste of Poland with our creamy and luscious Karpatka, a dessert that's as rich in tradition as it is in flavor.",
+        "price": 6.99
+    },
+    "Monday": {
+        "name": "Pirozhki",
+        "description": "These Russian hand pies are a savory delight, filled with a variety of delicious fillings and wrapped in a flaky pastry shell.",
+        "price": 5.99
+    },
+    "Tuesday": {
+        "name": "Basbousa",
+        "description": "Savor the sweetness of the Middle East with Basbousa, a delectable semolina cake soaked in fragrant syrup and garnished with almonds.",
+        "price": 8.99
+    },
+    "Wednesday": {
+        "name": "Povitica",
+        "description": "Delight in the artistry of our Povitica, a beautifully swirled Eastern European pastry filled with layers of irresistible goodness.",
+        "price": 12.99
+    },
+    "Thursday": {
+        "name": "Lamington",
+        "description": "Taste the essence of Australia with our Lamington, a sponge cake square coated in chocolate icing and desiccated coconut.",
+        "price": 3.49
+    },
+    "Friday": {
+        "name": "Sachertorte",
+        "description": "Indulge in the legendary Sachertorte, a sumptuous Austrian chocolate cake layered with apricot jam and covered in glossy chocolate glaze.",
+        "price": 14.99
+    },
+    "Saturday": {
+        "name": "Baklava",
+        "description": "ravel to the Mediterranean with our Baklava, a sweet and nutty pastry masterpiece that's a true delight for the senses.",
+        "price": 2.99
+    }
+}
